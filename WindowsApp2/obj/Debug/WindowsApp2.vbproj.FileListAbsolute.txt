@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.frmDoLoop.resources
