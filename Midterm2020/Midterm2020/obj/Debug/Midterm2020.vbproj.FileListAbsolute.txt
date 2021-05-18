@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\obj\Debug\Midterm2020.vbprojAssemblyReference.cache
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\obj\Debug\Midterm2020.frmNoOfDays.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\obj\Debug\Midterm2020.Resources.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\obj\Debug\Midterm2020.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\bin\Debug\Midterm2020.exe.config
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\bin\Debug\Midterm2020.exe
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\bin\Debug\Midterm2020.pdb
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\bin\Debug\Midterm2020.xml
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\obj\Debug\Midterm2020.exe
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\obj\Debug\Midterm2020.xml
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Midterm2020\Midterm2020\obj\Debug\Midterm2020.pdb
