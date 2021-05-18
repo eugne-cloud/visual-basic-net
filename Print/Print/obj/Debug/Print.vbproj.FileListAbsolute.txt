@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\bin\Debug\Print.exe.config
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\bin\Debug\Print.exe
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\bin\Debug\Print.pdb
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\bin\Debug\Print.xml
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\obj\Debug\Print.vbprojAssemblyReference.cache
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\obj\Debug\Print.frmPrintDoc.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\obj\Debug\Print.Resources.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\obj\Debug\Print.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\obj\Debug\Print.exe
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\obj\Debug\Print.xml
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\Print\Print\obj\Debug\Print.pdb

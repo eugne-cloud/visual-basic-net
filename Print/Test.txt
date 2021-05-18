@@ -1,0 +1,2 @@
+"INSERT INTO members (name, password, tel) VALUES (\'"+
+userText.getText() + "\', \'" + passText.getvalue2, value3, ...);
