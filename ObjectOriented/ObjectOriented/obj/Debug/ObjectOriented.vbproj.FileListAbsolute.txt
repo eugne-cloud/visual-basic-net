@@ -1,0 +1,4 @@
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.vbprojAssemblyReference.cache
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.Form1.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.Resources.resources
+C:\Users\Acer\Desktop\D-CS 2020\JAN2020_LECTURES\VB.NET\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.vbproj.GenerateResource.cache
