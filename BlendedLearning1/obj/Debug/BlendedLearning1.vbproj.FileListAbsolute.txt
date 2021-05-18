@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\bin\Debug\BlendedLearning1.exe.config
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\bin\Debug\BlendedLearning1.exe
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\bin\Debug\BlendedLearning1.pdb
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\bin\Debug\BlendedLearning1.xml
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\obj\Debug\BlendedLearning1.vbprojAssemblyReference.cache
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\obj\Debug\BlendedLearning1.Form1.resources
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\obj\Debug\BlendedLearning1.Resources.resources
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\obj\Debug\BlendedLearning1.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\obj\Debug\BlendedLearning1.exe
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\obj\Debug\BlendedLearning1.xml
+C:\Users\Acer\Desktop\JAN2020\VB.NET\BlendedLearning1\BlendedLearning1\obj\Debug\BlendedLearning1.pdb
